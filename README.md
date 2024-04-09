@@ -3,7 +3,7 @@ How to install Mobirise on OpenSUSE (Tumbleweed)
 
 First, prepare your system:
 
-sudo zypper install ruby-devel gcc make rpm-build libffi-devel
+sudo zypper install ruby-devel gcc make rpm-build libffi-devel\n
 sudo gem install --no-document fpm
 
 Then:
